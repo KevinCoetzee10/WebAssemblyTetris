@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In this project, we will implement the popular Tetris game as a practical example of how to use WebAssembly language. Our game logic will be written in C++, and then compiled to a WebAssembly module, which will then be utilized by our client-side Javascript and HTML files in order to host our Tetris game in a web browser. Our HTML files will then be hosted by a simple Node.js server. For this project, all setup steps assume you are developing within a Windows 10 environment.
+In this project, we will implement the popular Tetris game as a practical example of how to use WebAssembly language. Our game logic will be written in C++, and then compiled to a WebAssembly module, which will then be utilized by our client-side Javascript and HTML files in order to host our Tetris game in a web browser. Our HTML files will then be hosted by a simple http server. For this project, all setup steps assume you are developing within a Windows 10 environment.
 
 ## Environment Setup
 
@@ -111,3 +111,7 @@ Navigate to the project's git repository and execute the following commands:
 `http-server`
 
 The URLs where your index.html will be served are then displayed in your terminal.
+
+## Source Code
+
+All source code can be found at https://github.com/KevinCoetzee10/WebAssemblyTetris
