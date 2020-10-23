@@ -41,7 +41,7 @@ The written code will be divided between 4 files - **index.html**, **style.css**
 
 The HTML file contains the grid that we will use in order to display our Tetris GUI, as well as the buttons that we will use to take input for moving left and right, and rotating the active block.
 
-![./screenshots/image-20201023221227192](.\screenshots\image-20201023221227192.png)
+![image-20201023221227192](.\screenshots\image-20201023221227192.png)
 
 ![image-20201023221403925](.\screenshots\image-20201023221403925.png)
 
