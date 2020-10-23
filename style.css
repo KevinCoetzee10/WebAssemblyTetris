@@ -1,0 +1,36 @@
+.container {
+	width: 20rem;
+	margin: 2rem;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 5px;
+}
+.cell {
+	width: 2rem;
+	height: 2rem;
+	background-color: blanchedalmond;
+	font-size: 1rem;
+	text-align: center;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.button-container {
+	margin-top: 2.5rem;
+	margin-left: 4.5rem;
+}
+
+#lostLabel {
+	display: none;
+}
