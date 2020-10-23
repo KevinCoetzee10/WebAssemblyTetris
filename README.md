@@ -1,5 +1,7 @@
 # Tetris using WebAssembly
 
+![image-20201023231259757](.\screenshots\image-20201023231259757.png)
+
 ## Project Description
 
 In this project, we will implement the popular Tetris game as a practical example of how to use WebAssembly language. Our game logic will be written in C++, and then compiled to a WebAssembly module, which will then be utilized by our client-side Javascript and HTML files in order to host our Tetris game in a web browser. Our HTML files will then be hosted by a simple http server. For this project, all setup steps assume you are developing within a Windows 10 environment.
